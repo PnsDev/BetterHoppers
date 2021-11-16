@@ -1,0 +1,6 @@
+name: BetterHoppers
+version: '${project.version}'
+main: com.pnsdev.betterhoppers.BetterHoppers
+api-version: 1.17
+authors: [ PnsDev ]
+description: A better hopper system
